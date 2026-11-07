@@ -1,0 +1,6 @@
+{
+  "name": "VLX Player",
+  "description": "Production-quality web video player inspired by VLC, featuring Google Drive streaming, 10-band equalizer, 200% audio boost, dynamic ambient lighting, and rich playback controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
